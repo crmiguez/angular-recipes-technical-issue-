@@ -10,7 +10,8 @@ NOTE: In case of omit from Step 1 to Step 3, feel free to download on this link:
 > ng serve
 
 Schema validation failed with the following errors:
-  Data path "" should NOT have additional properties(browserTarget).
+Data path "" should NOT have additional properties(browserTarget).
+
 Please make sure on angular.json, and try again
 
 6) Enjoy! :)
