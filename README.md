@@ -1,5 +1,7 @@
 # angular-recipes-technical-issue-
-
+Technical requirements are the following:
+* Angular CLI v11.1.2
+* Node v18.20.8
 Instructions for using:
 1) Download all the three parts of 7z file
 2) Extract them by the password below: https://eu.onetimesecret.com/secret/2zpl8ab0zk6xa5l953yt5insv5xilnl
